@@ -97,9 +97,6 @@ Setup:
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- USAGE EXAMPLES -->
-## Usage
-
 For a full demonstration of all the functionalities of this phenomenal web application check out this [demo site](https://movieflixe.netlify.app/).
 
 _For more detailes regarding TMDB API calls, please refer to the [Documentation](https://developers.themoviedb.org/3/getting-started/introduction)._
